@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Eto.Forms.CSharp.Shared.Separate", "Eto.Forms.CSharp.Shared.Separate\Eto.Forms.CSharp.Shared.Separate.shproj", "{7E83C9ED-CD9F-40AE-8A64-8B3653AE5CFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eto.Forms.CSharp.Shared.Separate.WinForms", "Eto.Forms.CSharp.Shared.Separate.WinForms\Eto.Forms.CSharp.Shared.Separate.WinForms.csproj", "{1A5D38F4-D96F-4DCF-9B86-64B17B925436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eto.Forms.CSharp.Shared.Separate.Wpf", "Eto.Forms.CSharp.Shared.Separate.Wpf\Eto.Forms.CSharp.Shared.Separate.Wpf.csproj", "{D3454483-0E03-4954-BB6E-9E1D89DADC57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eto.Forms.CSharp.Shared.Separate.Gtk2", "Eto.Forms.CSharp.Shared.Separate.Gtk2\Eto.Forms.CSharp.Shared.Separate.Gtk2.csproj", "{4463A965-1A15-4A4F-AF56-616B320E459A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eto.Forms.CSharp.Shared.Separate.Gtk3", "Eto.Forms.CSharp.Shared.Separate.Gtk3\Eto.Forms.CSharp.Shared.Separate.Gtk3.csproj", "{10409585-6222-425C-A6C1-4DA78E7F3BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10409585-6222-425C-A6C1-4DA78E7F3BBA}.Debug|x86.ActiveCfg = Debug|x86
+		{10409585-6222-425C-A6C1-4DA78E7F3BBA}.Debug|x86.Build.0 = Debug|x86
+		{10409585-6222-425C-A6C1-4DA78E7F3BBA}.Release|x86.ActiveCfg = Release|x86
+		{10409585-6222-425C-A6C1-4DA78E7F3BBA}.Release|x86.Build.0 = Release|x86
+		{1A5D38F4-D96F-4DCF-9B86-64B17B925436}.Debug|x86.ActiveCfg = Debug|x86
+		{1A5D38F4-D96F-4DCF-9B86-64B17B925436}.Debug|x86.Build.0 = Debug|x86
+		{1A5D38F4-D96F-4DCF-9B86-64B17B925436}.Release|x86.ActiveCfg = Release|x86
+		{1A5D38F4-D96F-4DCF-9B86-64B17B925436}.Release|x86.Build.0 = Release|x86
+		{4463A965-1A15-4A4F-AF56-616B320E459A}.Debug|x86.ActiveCfg = Debug|x86
+		{4463A965-1A15-4A4F-AF56-616B320E459A}.Debug|x86.Build.0 = Debug|x86
+		{4463A965-1A15-4A4F-AF56-616B320E459A}.Release|x86.ActiveCfg = Release|x86
+		{4463A965-1A15-4A4F-AF56-616B320E459A}.Release|x86.Build.0 = Release|x86
+		{D3454483-0E03-4954-BB6E-9E1D89DADC57}.Debug|x86.ActiveCfg = Debug|x86
+		{D3454483-0E03-4954-BB6E-9E1D89DADC57}.Debug|x86.Build.0 = Debug|x86
+		{D3454483-0E03-4954-BB6E-9E1D89DADC57}.Release|x86.ActiveCfg = Release|x86
+		{D3454483-0E03-4954-BB6E-9E1D89DADC57}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

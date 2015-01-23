@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Eto.Forms.CSharp.Shared.Combined", "Eto.Forms.CSharp.Shared.Combined\Eto.Forms.CSharp.Shared.Combined.shproj", "{FC683A48-8977-4312-8D3F-2067773B3036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eto.Forms.CSharp.Shared.Combined.Desktop", "Eto.Forms.CSharp.Shared.Combined.Desktop\Eto.Forms.CSharp.Shared.Combined.Desktop.csproj", "{EBC5E8BD-DD00-4730-A379-DADB4C8011BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC5E8BD-DD00-4730-A379-DADB4C8011BA}.Debug|x86.ActiveCfg = Debug|x86
+		{EBC5E8BD-DD00-4730-A379-DADB4C8011BA}.Debug|x86.Build.0 = Debug|x86
+		{EBC5E8BD-DD00-4730-A379-DADB4C8011BA}.Release|x86.ActiveCfg = Release|x86
+		{EBC5E8BD-DD00-4730-A379-DADB4C8011BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

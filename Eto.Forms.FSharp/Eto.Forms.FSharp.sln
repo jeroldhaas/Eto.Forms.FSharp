@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{27AA3713-A350-4734-8D80-46BE8930ACD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eto.Forms.CSharp.Portable.Combined", "Eto.Forms.CSharp.Portable.Combined", "{02196A2D-C496-4BE5-A26E-C35198912A48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eto.Forms.CSharp.Portable.Separate", "Eto.Forms.CSharp.Portable.Separate", "{B3E71FF0-BFAC-4316-BC5E-BB10F1250888}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eto.Forms.CSharp.Shared.Combined", "Eto.Forms.CSharp.Shared.Combined", "{FBEA1BF8-F7DF-49EF-9E9A-992E40B673C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eto.Forms.CSharp.Shared.Separate", "Eto.Forms.CSharp.Shared.Separate", "{71903410-FC2B-4F23-B3D4-8A8BFBFBEB32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FSharp", "FSharp", "{81A6400B-04B8-4D5E-9630-4AD4CCEC7B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02196A2D-C496-4BE5-A26E-C35198912A48} = {27AA3713-A350-4734-8D80-46BE8930ACD3}
+		{B3E71FF0-BFAC-4316-BC5E-BB10F1250888} = {27AA3713-A350-4734-8D80-46BE8930ACD3}
+		{FBEA1BF8-F7DF-49EF-9E9A-992E40B673C2} = {27AA3713-A350-4734-8D80-46BE8930ACD3}
+		{71903410-FC2B-4F23-B3D4-8A8BFBFBEB32} = {27AA3713-A350-4734-8D80-46BE8930ACD3}
+	EndGlobalSection
+EndGlobal
